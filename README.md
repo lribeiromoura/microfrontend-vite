@@ -1,4 +1,4 @@
-# 🚀 Remote Micro-Frontend Application Example
+# 🚀 Micro-Frontend Application Example
 
 Welcome to the Micro-Frontend Application Example! This project demonstrates how to build and integrate an application in a micro-frontend architecture using Vite, React, TypeScript, and the @originjs/vite-plugin-federation.
 
